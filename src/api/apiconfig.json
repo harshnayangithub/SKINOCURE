@@ -1,0 +1,11 @@
+{
+  "CustomVisionAPI": {
+    "Url": "https://imageprediction-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/37c30df6-f717-4376-a242-431b11c0ea8c/classify/iterations/skinprediction/url",
+    "PredictionKey": "00ba21feed83407dbc75eded13af9820"
+  },
+  "AzureStorageApi": {
+    "SasToken" : "sp=racwdli&st=2024-02-17T19:57:26Z&se=2024-04-10T03:57:26Z&sv=2022-11-02&sr=c&sig=%2BII%2BMJWm0nG4lv8KEZGPL1OGI8sbU%2BpMh%2FQMxP2UO%2FQ%3D",
+    "ContainerName" : "imgcontainer",
+    "StorageAccountName" : "skinimagesstorage"
+  }
+}

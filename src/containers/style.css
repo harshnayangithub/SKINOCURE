@@ -1,0 +1,24 @@
+.mobileImage {
+    width: 400px; /* Set the desired width here */
+    height: 400px; /* Set the desired height here */
+}
+
+@media (max-width: 768px) {
+    .mobileImage {
+        width: 200px; /* Set the desired width for mobile */
+        height: 200px; /* Set the desired height for mobile */
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 15px;
+        
+    }
+}
+
+.max-width {
+    max-width: 100%; /* Set the maximum width */
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+

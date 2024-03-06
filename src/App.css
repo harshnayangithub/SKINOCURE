@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+::-webkit-scrollbar-track{
+  border-radius: 10px ;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 600px) { /* Adjust max-width as per your needs */
+  img {
+    height: auto;
+    max-height: 200px; /* Adjust the maximum height for mobile */
+  }
+}
+/* Add styles for diseases detected section */
+.diseases-detected {
+  background-color: #fcfcfc; /* Grey color */
+  padding: 20px; /* Add padding for spacing */
+  text-align: center;
+}
+
+.diseases-detected ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.diseases-detected ul li {
+  font-size: 18px; /* Adjust font size as needed */
+}
+
+/* Style for each disease */
+.diseases-detected ul li span {
+  font-weight: bold;
+  color: #ffffff; /* Adjust color as needed */
+}
+
+
