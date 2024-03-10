@@ -173,7 +173,7 @@ function App() {
                     </div>
                     {/*/ End Video Animation */}
                     <a
-                      href="https://youtu.be/MY-B9bBdZFU?feature=shared" target="_blank"
+                      href="https://youtu.bxe/MY-B9bBdZFU?feature=shared" target="_blank"
                       className="video video-popup mfp-iframe"
                     >
                       <i className="fa fa-play" />
