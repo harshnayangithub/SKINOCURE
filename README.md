@@ -1,4 +1,4 @@
-# Skin_O_Care
+## Skin-O-Cure
 A Machine Learning model used to predict possible Skin Diseases 
 This project aims to develop a machine-learning model for detecting various skin diseases using image analysis. The model is trained on a dataset of skin disease images and is capable of classifying new images into different disease categories.
 
@@ -26,12 +26,21 @@ The model architecture used for this project is based on a convolutional neural 
 <h2> Future Work </h2>
 
 - Improve model performance with additional data and fine-tuning.
-- Develop a web or mobile application for easy access to the model.
+- Develop a mobile application for easy access to the model.
 - Incorporate real-time image analysis for faster diagnosis.
 
 <h2> Contributing </h2>
 
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-Footer
-© 2024 GitHub, Inc.
+## How to use the Website?
+1) Go to the deployed URL- (https://skin-diseases-detection.vercel.app/)
+2) Front Page will look something like this
+3) ![uploaded](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/470d7058-5519-4e99-a636-7ee985021ead)
+4) Click on the Login/SignUp section. Then click on the register if you are a first-time user (Firebase Authentication)
+5) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/d56b75b9-7cd1-4d41-aa1e-7c9f633f55cc)
+6) Now, that you are logged in head over to the Diagnosis section, Upload your image and click on the upload button.
+7) ![screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/1997249e-0bb9-4663-8f59-30f57dce69b6)
+
+
+
