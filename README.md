@@ -41,6 +41,9 @@ Contributions to this project are welcome. Please fork the repository, make your
 5) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/d56b75b9-7cd1-4d41-aa1e-7c9f633f55cc)
 6) Now, that you are logged in head over to the Diagnosis section, Upload your image and click on the upload button.
 7) ![screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/1997249e-0bb9-4663-8f59-30f57dce69b6)
+8) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/121b1b45-ec30-48a2-9df6-868e580367a8)
+9) If you want to book an appointment with the dermatologist (dummy) click on the Book Appointment button and fill in the required details and make the payment.
+10) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/efcf5569-e2b1-4c61-850e-70b2d7d55aa9)
 
 
 
