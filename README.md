@@ -5,8 +5,9 @@ This project aims to develop a machine-learning model for detecting various skin
 <h2> Table of Contents </h2>
 
 - [Overview](#overview)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
+- [Dataset](#Dataset)
+- [Model Architecture ](#ModelArchitecture )
+- [Use case](#Usecase)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
@@ -23,6 +24,21 @@ The dataset used for training the model consists of images of various skin disea
 
 The model architecture used for this project is based on a convolutional neural network (CNN). CNNs are well-suited for image classification tasks due to their ability to learn hierarchical features from images. Transfer learning is employed using a pre-trained CNN model to leverage features learned from a large dataset.
 
+
+## How to use the Website?
+1) Go to the deployed URL- (https://skin-diseases-detection.vercel.app/)
+2) Front Page will look something like this
+3) ![uploaded](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/470d7058-5519-4e99-a636-7ee985021ead)
+4) Click on the Login/SignUp section. Then click on the register if you are a first-time user (Firebase Authentication)
+5) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/d56b75b9-7cd1-4d41-aa1e-7c9f633f55cc)
+6) Now, that you are logged in head over to the Diagnosis section, Upload your image and click on the upload button.
+7) ![screen shot](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/af8a3beb-5601-4e89-8130-649724041070)
+8) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/121b1b45-ec30-48a2-9df6-868e580367a8)
+9) If you want to book an appointment with the dermatologist (dummy) click on the Book Appointment button and fill in the required details and make the payment.
+10) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/efcf5569-e2b1-4c61-850e-70b2d7d55aa9)
+
+
+
 <h2> Future Work </h2>
 
 - Improve model performance with additional data and fine-tuning.
@@ -32,18 +48,4 @@ The model architecture used for this project is based on a convolutional neural 
 <h2> Contributing </h2>
 
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## How to use the Website?
-1) Go to the deployed URL- (https://skin-diseases-detection.vercel.app/)
-2) Front Page will look something like this
-3) ![uploaded](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/470d7058-5519-4e99-a636-7ee985021ead)
-4) Click on the Login/SignUp section. Then click on the register if you are a first-time user (Firebase Authentication)
-5) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/d56b75b9-7cd1-4d41-aa1e-7c9f633f55cc)
-6) Now, that you are logged in head over to the Diagnosis section, Upload your image and click on the upload button.
-7) ![screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/1997249e-0bb9-4663-8f59-30f57dce69b6)
-8) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/121b1b45-ec30-48a2-9df6-868e580367a8)
-9) If you want to book an appointment with the dermatologist (dummy) click on the Book Appointment button and fill in the required details and make the payment.
-10) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/efcf5569-e2b1-4c61-850e-70b2d7d55aa9)
-
-
 
