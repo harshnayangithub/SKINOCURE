@@ -18,7 +18,14 @@ Skin diseases are common and can vary widely in severity and symptoms. Early det
 
 <h2> Dataset </h2>
 
-The dataset used for training the model consists of images of various skin diseases, including but not limited to eczema, psoriasis, melanoma, and acne. The dataset is preprocessed and augmented to improve the model's performance and generalization.
+The dataset used for training the model consists of images of various skin diseases, including eczema, psoriasis, melanoma, and acne. The dataset is preprocessed to improve the model's performance and generalization. Currently, this model predicts only these kinds of Skin Diseases. 
+- Acne / Rosacea
+- Melanocytic Nevus
+- Eczema
+- Dermatofibroma
+- Vascular Lesion
+- Ringworm / Tinea
+- Melanoma
 
 <h2> Model Architecture </h2>
 
