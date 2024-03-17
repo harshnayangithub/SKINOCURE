@@ -32,9 +32,10 @@ The model architecture used for this project is based on a convolutional neural 
 4) Click on the Login/SignUp section. Then click on the register if you are a first-time user (Firebase Authentication)
 5) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/d56b75b9-7cd1-4d41-aa1e-7c9f633f55cc)
 6) Now, that you are logged in head over to the Diagnosis section, Upload your image and click on the upload button.
-7) ![delt](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/f1031818-3c1c-4d00-842c-7207d4e1b2d8)
-8) If you want to book an appointment with the dermatologist (dummy) click on the Book Appointment button and fill in the required details and make the payment.
-9) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/efcf5569-e2b1-4c61-850e-70b2d7d55aa9)
+7) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/3b153dd9-da17-4753-9061-3777259e35f9)
+8) [Screens](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/3cb0992b-cf49-435f-a9e2-56a8f6c44ec6)
+9) If you want to book an appointment with the dermatologist (dummy) click on the Book Appointment button and fill in the required details and make the payment.
+10) ![Screen](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/efcf5569-e2b1-4c61-850e-70b2d7d55aa9)
 
 <h2> Future Work </h2>
 
