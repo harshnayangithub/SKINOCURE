@@ -49,7 +49,7 @@ The model architecture used for this project is based on a convolutional neural 
 - Improve model performance with additional data and fine-tuning.
 - Develop a mobile application for easy access to the model.
 - Incorporate real-time image analysis for faster diagnosis.
-- 
+
 <h2> Contributing </h2>
 
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
