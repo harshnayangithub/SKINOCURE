@@ -367,7 +367,29 @@ function App() {
                 </form>
               </div>
             </div>
-           
+           <div className="row">
+              <div className="col-lg-12">
+                <div className="section-title">
+                  <br />
+                  <br />
+                  <h2>
+                    Creators
+                  </h2>
+                  <img src="img/section-img.png" alt="#" />
+                </div>
+              </div>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={Member}
+                style={{
+                  width: '100%',
+                  height: 'auto',
+                  maxWidth: '900px', // optional: limit maximum width
+                  maxHeight: '300px'  // set maximum height for desktop
+                }}
+              />
+            </div>
 
           </div>
         </section>
