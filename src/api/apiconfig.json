@@ -4,7 +4,7 @@
     "PredictionKey": "00ba21feed83407dbc75eded13af9820"
   },
   "AzureStorageApi": {
-    "SasToken" : "sp=racwdli&st=2024-02-17T19:57:26Z&se=2024-04-10T03:57:26Z&sv=2022-11-02&sr=c&sig=%2BII%2BMJWm0nG4lv8KEZGPL1OGI8sbU%2BpMh%2FQMxP2UO%2FQ%3D",
+    "SasToken" : "sp=racwd&st=2024-06-04T14:27:29Z&se=2026-12-31T22:27:29Z&sv=2022-11-02&sr=c&sig=jl8CK74wpp%2FKQVySYwn4Ts9ZRkp6yTCwo6sxVVdGmMg%3D",
     "ContainerName" : "imgcontainer",
     "StorageAccountName" : "skinimagesstorage"
   }
