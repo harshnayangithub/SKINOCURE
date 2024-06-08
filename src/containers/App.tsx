@@ -145,10 +145,10 @@ function App() {
                                                             <span style={{ color: 'rgb(26, 118, 209)' }}>{Math.round(p.probability * 10000) / 100}%</span>
                                                             - <span style={{ color: 'rgb(26, 118, 209)' }}><b><i>{diseaseNameByTag[p.tagName]}</i></b> ({p.tagName})</span><br /><br />
                                                             <span style={{ color: 'rgb(26, 118, 209)' }}>Remedy:</span>
-                                                            <span style={{ color: 'rgb(26, 118, 209)' }}>{diseaseRemedies[p.tagName]}</span><br /><br /><span style={{ color: 'rgb(26, 118, 209)' }}>Verified by Dr. Ashutosh Shende  (MBBS Skin Sciences and Regenerative Medicine) </span>
+                                                            <span style={{ color: 'rgb(26, 118, 209)' }}>{diseaseRemedies[p.tagName]}</span><br /><br /><span style={{ color: 'rgb(26, 118, 209)' }}> </span>
                                                             <br />
                                                             <br />
-                                                            <span style={{ color: 'rgb(26, 118, 209)' }}>To Book Appointment   </span>
+                                                            <span style={{ color: 'rgb(26, 118, 209)' }}>   To Book Appointment   </span>
                                                             <button type="button" className="btn btn-primary">
                                                                 <a href="/Payment">CLICK HERE</a>
                                                             </button>
