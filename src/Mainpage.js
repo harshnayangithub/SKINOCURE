@@ -173,7 +173,7 @@ function App() {
                     </div>
                     {/*/ End Video Animation */}
                     <a
-                      href="https://youtu.be/MY-B9bBdZFU?feature=shared" target="_blank"
+                      href=" " target="_blank"
                       className="video video-popup mfp-iframe"
                     >
                       <i className="fa fa-play" />
@@ -407,7 +407,7 @@ function App() {
                 <div className="col-lg-12 col-md-12 col-12">
                   <div className="copyright-content">
                     <p>
-                      © Copyright 2024 | All Rights Reserved by{" "}
+                      © Copyright 2024 | All Rights Reserved by{"Surekha"}
                       <a
                         target="_blank"
                         rel="noreferrer"

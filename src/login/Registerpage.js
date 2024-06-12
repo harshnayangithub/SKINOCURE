@@ -7,14 +7,13 @@ import { useNavigate } from 'react-router-dom';
 import Header from '../Header';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDZ5IoswPLJEcGeza8xjO7jdoPUeIwrVxI",
-  authDomain: "customer-details-290d4.firebaseapp.com",
-  databaseURL: "https://customer-details-290d4-default-rtdb.asia-southeast1.firebasedatabase.app/",
-  projectId: "customer-details-290d4",
-  storageBucket: "customer-details-290d4.appspot.com",
-  messagingSenderId: "853715057530",
-  appId: "1:853715057530:web:9f2f13e2cf7ff2e1dd74c3",
-  measurementId: "G-75EXTP491W"
+  apiKey: "AIzaSyAsz8nbGG0bmmJLF1JK6bI9ITLPPsS9mwE",
+  authDomain: "fir-project-7d7db.firebaseapp.com",
+  projectId: "fir-project-7d7db",
+  storageBucket: "fir-project-7d7db.appspot.com",
+  messagingSenderId: "373249154837",
+  appId: "1:373249154837:web:e6b1b81b45839678cf531c",
+  measurementId: "G-MRJ4FT8MX0"
 };
 
 firebase.initializeApp(firebaseConfig);
