@@ -5,7 +5,7 @@ import { uploadImageToStorage } from "../api/azure_storage_api/azureStorageApiCa
 import { getPredictions, Prediction } from "../api/custom_vision_api/customVisionApiCalls.ts";
 import { Card, Col, Row, Spinner } from "reactstrap";
 import { FileUploadCard } from "../components/FileUploadCard.tsx";
-import { Link } from "react-router-dom";
+
 import './style.css';
 
 function App() {
