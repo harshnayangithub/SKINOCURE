@@ -16,6 +16,9 @@ This project aims to develop a machine-learning model for detecting various skin
 
 Skin diseases are common and can vary widely in severity and symptoms. Early detection and diagnosis are crucial for effective treatment. This project leverages machine learning techniques to assist in the automated detection of skin diseases, which can help healthcare professionals in timely diagnosis.
 
+
+https://www.loom.com/share/ba577fafd36f4f738e251d5d7261dc71?sid=ef383703-c173-41f0-ad15-b1576607ff17
+
 <h2> Dataset </h2>
 
 The dataset used for training the model consists of images of various skin diseases, including eczema, psoriasis, melanoma, and acne. The dataset is preprocessed to improve the model's performance and generalization. Currently, this model predicts only these kinds of Skin Diseases. 
